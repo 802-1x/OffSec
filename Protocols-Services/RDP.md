@@ -30,7 +30,7 @@ ncrack -vv -u <username> -P <password file.txt> rdp://<IP>
 ncrack -vv -u <users.txt> -P <password file.txt> rdp://<IP>
 ```
 
-Defensive Engineering
+## Defensive Engineering
 
 1) Monitor successful RDP attempts through EDR reporting
 2) Monitor logs for RDP threshold alerting
